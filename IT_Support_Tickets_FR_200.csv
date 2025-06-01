@@ -1,0 +1,201 @@
+ID Ticket,Date,Client,Description,Type de problème,Priorité
+1,2023-10-01,Service Finances,L'ordinateur ne s'allume pas après une mise à jour Windows,Matériel,Élevée
+2,2023-10-01,Marketing,Impossible d'accéder à Outlook - erreur "Compte indisponible",Compte/Mot de passe,Moyenne
+3,2023-10-02,RH,Le logiciel SAP plante fréquemment lors de la génération de rapports,Logiciel,Élevée
+4,2023-10-02,IT Support,Connexion Wi-Fi lente dans le bâtiment B,Réseau,Moyenne
+5,2023-10-03,Direction,Impossible d'imprimer depuis le nouveau copieur,Matériel,Élevée
+6,2023-10-03,Comptabilité,Problème d'activation de la licence Adobe Pro,Logiciel,Moyenne
+7,2023-10-04,Ventes,Le VPN ne se connecte pas en télétravail,Réseau,Élevée
+8,2023-10-04,Service Client,Mot de passe oublié pour le système CRM,Compte/Mot de passe,Basse
+9,2023-10-05,Logistique,L'écran clignote de manière aléatoire,Matériel,Moyenne
+10,2023-10-05,R&D,Impossible d'installer un logiciel spécialisé (erreur admin),Logiciel,Élevée
+11,2023-10-06,Production,Le scanner ne détecte pas les documents,Matériel,Moyenne
+12,2023-10-06,Qualité,Problème de synchronisation avec SharePoint,Logiciel,Moyenne
+13,2023-10-07,IT Support,Pare-feu bloquant l'accès à un site web nécessaire,Réseau,Élevée
+14,2023-10-07,Marketing,Clavier AZERTY fonctionnant en QWERTY,Matériel,Basse
+15,2023-10-08,RH,Erreur 404 sur le portail des employés,Logiciel,Moyenne
+16,2023-10-08,Comptabilité,Lenteur extrême sur Excel avec fichiers volumineux,Logiciel,Élevée
+17,2023-10-09,Ventes,Microphone du casque ne fonctionne pas sur Teams,Matériel,Moyenne
+18,2023-10-09,Service Client,Réinitialisation mot de passe compte admin,Compte/Mot de passe,Élevée
+19,2023-10-10,Logistique,Connexion au serveur FTP impossible,Réseau,Élevée
+20,2023-10-10,R&D,Logiciel de CAH plante à l'export PDF,Logiciel,Moyenne
+21,2023-10-11,Production,Disque dur externe non reconnu,Matériel,Moyenne
+22,2023-10-11,Qualité,Problème d'affichage sur écran secondaire,Matériel,Basse
+23,2023-10-12,IT Support,Connexion VPN instable en déplacement,Réseau,Moyenne
+24,2023-10-12,Marketing,Envoi d'emails en masse via MailChimp impossible,Logiciel,Élevée
+25,2023-10-13,RH,Accès refusé au dossier partagé malgré les droits,Compte/Mot de passe,Moyenne
+26,2023-10-13,Comptabilité,Souris sans fil se déconnecte aléatoirement,Matériel,Basse
+27,2023-10-14,Ventes,Données corrompues dans le CRM,Logiciel,Élevée
+28,2023-10-14,Service Client,Création d'un nouveau compte utilisateur,Compte/Mot de passe,Moyenne
+29,2023-10-15,Logistique,Imprimante réseau hors ligne,Réseau,Moyenne
+30,2023-10-15,R&D,Licence MATLAB expirée,Logiciel,Élevée
+31,2023-10-16,Production,Batterie d'ordinateur portable ne tient plus,Matériel,Moyenne
+32,2023-10-16,Qualité,Latence sur appels VoIP,Réseau,Élevée
+33,2023-10-17,IT Support,Antivirus bloque un logiciel métier,Logiciel,Moyenne
+34,2023-10-17,Marketing,Trackpad du laptop ne répond plus,Matériel,Moyenne
+35,2023-10-18,RH,Erreur de certificat SSL sur l'intranet,Réseau,Élevée
+36,2023-10-18,Comptabilité,Installation pilote pour ancienne imprimante,Logiciel,Basse
+37,2023-10-19,Ventes,Problème d'authentification à deux facteurs,Compte/Mot de passe,Élevée
+38,2023-10-19,Service Client,Ecran bleu Windows aléatoire,Matériel,Élevée
+39,2023-10-20,Logistique,Partage de fichiers inter-départements impossible,Réseau,Moyenne
+40,2023-10-20,R&D,Logiciel de simulation ne répond plus post-màj,Logiciel,Élevée
+41,2023-10-21,Production,Clé USB endommagée - données à récupérer,Matériel,Élevée
+42,2023-10-21,Qualité,Problème de timezone dans le système de badge,Logiciel,Basse
+43,2023-10-22,IT Support,Configuration requise pour nouveau smartphone,Autre,Moyenne
+44,2023-10-22,Marketing,Problème d'affichage sur le site web mobile,Logiciel,Moyenne
+45,2023-10-23,RH,Impossible de modifier les informations employés,Compte/Mot de passe,Moyenne
+46,2023-10-23,Comptabilité,Calculs erronés dans les rapports financiers,Logiciel,Élevée
+47,2023-10-24,Ventes,CRM ne sauvegarde pas les nouvelles fiches clients,Logiciel,Élevée
+48,2023-10-24,Service Client,Formation demandée pour le nouveau logiciel,Autre,Basse
+49,2023-10-25,Logistique,Scanner de codes-barres ne fonctionne plus,Matériel,Moyenne
+50,2023-10-25,R&D,Problème de compilation avec GCC 12.2,Logiciel,Élevée
+51,2023-10-26,Production,Alimentation PC coupée fréquemment,Matériel,Élevée
+52,2023-10-26,Qualité,Base de données SQL lente à répondre,Logiciel,Moyenne
+53,2023-10-27,IT Support,Configuration IP statique nécessaire,Réseau,Moyenne
+54,2023-10-27,Marketing,Problème de rendu des polices dans Photoshop,Logiciel,Moyenne
+55,2023-10-28,RH,Historique des formations non mis à jour,Logiciel,Basse
+56,2023-10-28,Comptabilité,Problème de conversion devise dans SAP,Logiciel,Élevée
+57,2023-10-29,Ventes,Webcam ne fonctionne pas pendant les visioconférences,Matériel,Moyenne
+58,2023-10-29,Service Client,Demande de création d'alias email,Compte/Mot de passe,Basse
+59,2023-10-30,Logistique,Étiqueteuse connectée ne répond plus,Matériel,Moyenne
+60,2023-10-30,R&D,Erreur de segmentation dans l'application C++,Logiciel,Élevée
+61,2023-10-31,Production,Capteur de température industriel défaillant,Matériel,Élevée
+62,2023-10-31,Qualité,Sauvegarde automatique non fonctionnelle,Logiciel,Moyenne
+63,2023-11-01,IT Support,Problème de NAT sur le routeur principal,Réseau,Élevée
+64,2023-11-01,Marketing,Intégration Google Analytics défaillante,Logiciel,Moyenne
+65,2023-11-02,RH,Problème de compatibilité des fichiers .ODT,Logiciel,Basse
+66,2023-11-02,Comptabilité,Arrondis incorrects dans les bilans,Logiciel,Élevée
+67,2023-11-03,Ventes,Problème de son sur les appels Teams,Matériel,Moyenne
+68,2023-11-03,Service Client,Demande d'accès à un dossier archivé,Compte/Mot de passe,Basse
+69,2023-11-04,Logistique,Logiciel de gestion de flotte plante au démarrage,Logiciel,Élevée
+70,2023-11-04,R&D,Problème de driver avec carte graphique NVIDIA,Matériel,Moyenne
+71,2023-11-05,Production,Balance connectée ne transmet plus de données,Matériel,Moyenne
+72,2023-11-05,Qualité,Export CSV tronqué à 10 000 lignes,Logiciel,Moyenne
+73,2023-11-06,IT Support,DNS interne ne résout pas certains noms,Réseau,Élevée
+74,2023-11-06,Marketing,Problème d'alignement dans l'éditeur de newsletter,Logiciel,Basse
+75,2023-11-07,RH,Impossible d'exporter en PDF les bulletins de paie,Logiciel,Moyenne
+76,2023-11-07,Comptabilité,Problème de connexion à la banque en ligne,Logiciel,Élevée
+77,2023-11-08,Ventes,Écran tactile du showroom ne répond plus,Matériel,Élevée
+78,2023-11-08,Service Client,Demande de suppression de compte obsolète,Compte/Mot de passe,Basse
+79,2023-11-09,Logistique,Problème de calibration du système RFID,Matériel,Moyenne
+80,2023-11-09,R&D,Erreur de mémoire dans l'application Python,Logiciel,Élevée
+81,2023-11-10,Production,Ventilateur du serveur bruyant,Matériel,Moyenne
+82,2023-11-10,Qualité,Problème d'arrondi dans les calculs qualité,Logiciel,Élevée
+83,2023-11-11,IT Support,Problème de QoS sur la VoIP,Réseau,Moyenne
+84,2023-11-11,Marketing,Intégration LinkedIn Sales Navigator défaillante,Logiciel,Moyenne
+85,2023-11-12,RH,Problème d'encodage des caractères spéciaux,Logiciel,Basse
+86,2023-11-12,Comptabilité,Logiciel de compta bloque à l'ouverture,Logiciel,Élevée
+87,2023-11-13,Ventes,Problème de chargement des images produits,Logiciel,Moyenne
+88,2023-11-13,Service Client,Demande d'activation de compte temporaire,Compte/Mot de passe,Basse
+89,2023-11-14,Logistique,Scanner portable ne se connecte plus en Bluetooth,Matériel,Moyenne
+90,2023-11-14,R&D,Problème de version avec TensorFlow 2.10,Logiciel,Élevée
+91,2023-11-15,Production,Capteur de pression défectueux,Matériel,Élevée
+92,2023-11-15,Qualité,Problème de génération des certificats qualité,Logiciel,Moyenne
+93,2023-11-16,IT Support,Problème de double authentification VPN,Réseau,Élevée
+94,2023-11-16,Marketing,Problème de tracking des campagnes email,Logiciel,Moyenne
+95,2023-11-17,RH,Impossible de modifier les plannings vacances,Logiciel,Basse
+96,2023-11-17,Comptabilité,Problème de concordance des soldes,Logiciel,Élevée
+97,2023-11-18,Ventes,Tablette de démonstration ne charge plus,Matériel,Moyenne
+98,2023-11-18,Service Client,Demande de réactivation de compte,Compte/Mot de passe,Basse
+99,2023-11-19,Logistique,Problème d'étiquetage automatique,Logiciel,Moyenne
+100,2023-11-19,R&D,Compilation échoue avec warning traité en erreur,Logiciel,Élevée
+101,2023-11-20,Production,Alarme incendie déclenchée par erreur,Autre,Élevée
+102,2023-11-20,Qualité,Problème d'interpolation des données capteurs,Logiciel,Moyenne
+103,2023-11-21,IT Support,Problème de bande passante entre sites,Réseau,Élevée
+104,2023-11-21,Marketing,Problème d'affichage sur les écrans publicitaires,Matériel,Moyenne
+105,2023-11-22,RH,Problème de calcul des heures supplémentaires,Logiciel,Moyenne
+106,2023-11-22,Comptabilité,Problème de conversion taux de change,Logiciel,Élevée
+107,2023-11-23,Ventes,Micro sans fil avec interférences,Matériel,Moyenne
+108,2023-11-23,Service Client,Demande de modification des droits d'accès,Compte/Mot de passe,Basse
+109,2023-11-24,Logistique,Problème de lecture des codes QR,Matériel,Moyenne
+110,2023-11-24,R&D,Problème de stabilité avec Docker compose,Logiciel,Élevée
+111,2023-11-25,Production,Capteur de niveau de liquide défaillant,Matériel,Élevée
+112,2023-11-25,Qualité,Problème de génération des rapports PDF,Logiciel,Moyenne
+113,2023-11-26,IT Support,Problème de routage entre VLANs,Réseau,Élevée
+114,2023-11-26,Marketing,Problème d'export des leads depuis Hubspot,Logiciel,Moyenne
+115,2023-11-27,RH,Problème d'import des données candidats,Logiciel,Moyenne
+116,2023-11-27,Comptabilité,Problème de réconciliation bancaire,Logiciel,Élevée
+117,2023-11-28,Ventes,Problème de zoom sur la caméra de conférence,Matériel,Moyenne
+118,2023-11-28,Service Client,Demande de configuration email sur mobile,Compte/Mot de passe,Basse
+119,2023-11-29,Logistique,Problème de calibration du poids,Matériel,Moyenne
+120,2023-11-29,R&D,Problème de performance avec OpenCV,Logiciel,Élevée
+121,2023-11-30,Production,Capteur de vibration trop sensible,Matériel,Moyenne
+122,2023-11-30,Qualité,Problème de seuil d'alerte qualité,Logiciel,Moyenne
+123,2023-12-01,IT Support,Problème de latence sur appels internationaux,Réseau,Élevée
+124,2023-12-01,Marketing,Problème d'intégration Instagram Shopping,Logiciel,Moyenne
+125,2023-12-02,RH,Problème de génération des contrats types,Logiciel,Basse
+126,2023-12-02,Comptabilité,Problème de TVA intracommunautaire,Logiciel,Élevée
+127,2023-12-03,Ventes,Problème de son sur l'enceinte connectée,Matériel,Moyenne
+128,2023-12-03,Service Client,Demande de création de groupe de distribution,Compte/Mot de passe,Basse
+129,2023-12-04,Logistique,Problème de lecture des étiquettes RFID,Matériel,Moyenne
+130,2023-12-04,R&D,Problème de version des dépendances Python,Logiciel,Élevée
+131,2023-12-05,Production,Panne du système de climatisation,Autre,Élevée
+132,2023-12-05,Qualité,Problème de calcul des écarts types,Logiciel,Moyenne
+133,2023-12-06,IT Support,Problème de configuration du proxy,Réseau,Élevée
+134,2023-12-06,Marketing,Problème d'affichage des vidéos en streaming,Logiciel,Moyenne
+135,2023-12-07,RH,Problème de compatibilité des fichiers .DOCX,Logiciel,Basse
+136,2023-12-07,Comptabilité,Problème de rapprochement automatique,Logiciel,Élevée
+137,2023-12-08,Ventes,Problème de tactile sur tablette de démo,Matériel,Moyenne
+138,2023-12-08,Service Client,Demande de réinitialisation de questions secrètes,Compte/Mot de passe,Basse
+139,2023-12-09,Logistique,Problème de synchronisation des stocks,Logiciel,Moyenne
+140,2023-12-09,R&D,Problème de compilation cross-platform,Logiciel,Élevée
+141,2023-12-10,Production,Capteur de luminosité défectueux,Matériel,Moyenne
+142,2023-12-10,Qualité,Problème de génération des graphiques,Logiciel,Moyenne
+143,2023-12-11,IT Support,Problème de DHCP sur le réseau filaire,Réseau,Élevée
+144,2023-12-11,Marketing,Problème d'envoi des newsletters segmentées,Logiciel,Moyenne
+145,2023-12-12,RH,Problème de calcul des congés maladie,Logiciel,Moyenne
+146,2023-12-12,Comptabilité,Problème d'arrondi dans les déclarations fiscales,Logiciel,Élevée
+147,2023-12-13,Ventes,Problème de chargement des fiches produits,Logiciel,Moyenne
+148,2023-12-13,Service Client,Demande de configuration automatique de réponse,Compte/Mot de passe,Basse
+149,2023-12-14,Logistique,Problème d'impression des étiquettes colis,Matériel,Moyenne
+150,2023-12-14,R&D,Problème de mémoire partagée CUDA,Logiciel,Élevée
+151,2023-12-15,Production,Alimentation secteur intermittente,Matériel,Élevée
+152,2023-12-15,Qualité,Problème de normalisation des données,Logiciel,Moyenne
+153,2023-12-16,IT Support,Problème de NAT traversal pour la visioconférence,Réseau,Élevée
+154,2023-12-16,Marketing,Problème d'intégration du chatbot,Logiciel,Moyenne
+155,2023-12-17,RH,Problème de génération des organigrammes,Logiciel,Basse
+156,2023-12-17,Comptabilité,Problème de conversion des devises étrangères,Logiciel,Élevée
+157,2023-12-18,Ventes,Problème de reconnaissance faciale sur tablette,Matériel,Moyenne
+158,2023-12-18,Service Client,Demande de suppression de signature automatique,Compte/Mot de passe,Basse
+159,2023-12-19,Logistique,Problème de calibration du système de pesage,Matériel,Moyenne
+160,2023-12-19,R&D,Problème de thread safety dans l'application,Logiciel,Élevée
+161,2023-12-20,Production,Capteur de température donne des valeurs erronées,Matériel,Élevée
+162,2023-12-20,Qualité,Problème d'export des données au format JSON,Logiciel,Moyenne
+163,2023-12-21,IT Support,Problème de QoS pour les applications métiers,Réseau,Élevée
+164,2023-12-21,Marketing,Problème d'affichage des polices dans les PDF,Logiciel,Moyenne
+165,2023-12-22,RH,Problème d'import des temps de travail,Logiciel,Moyenne
+166,2023-12-22,Comptabilité,Problème de rapprochement bancaire automatique,Logiciel,Élevée
+167,2023-12-23,Ventes,Problème de son sur le système de conférence,Matériel,Moyenne
+168,2023-12-23,Service Client,Demande de configuration des règles de boîte mail,Compte/Mot de passe,Basse
+169,2023-12-24,Logistique,Problème de lecture des codes-barres 2D,Matériel,Moyenne
+170,2023-12-24,R&D,Problème de performance avec les grosses matrices,Logiciel,Élevée
+171,2023-12-25,Production,Panne du système de surveillance,Autre,Élevée
+172,2023-12-25,Qualité,Problème de calcul des marges d'erreur,Logiciel,Moyenne
+173,2023-12-26,IT Support,Problème de tunneling VPN,Réseau,Élevée
+174,2023-12-26,Marketing,Problème d'envoi des SMS promotionnels,Logiciel,Moyenne
+175,2023-12-27,RH,Problème de génération des attestations employés,Logiciel,Basse
+176,2023-12-27,Comptabilité,Problème de TVA sur les achats intra-UE,Logiciel,Élevée
+177,2023-12-28,Ventes,Problème de luminosité sur l'écran de démo,Matériel,Moyenne
+178,2023-12-28,Service Client,Demande de configuration des filtres anti-spam,Compte/Mot de passe,Basse
+179,2023-12-29,Logistique,Problème d'étiquetage automatique des palettes,Logiciel,Moyenne
+180,2023-12-29,R&D,Problème de compilation des kernels CUDA,Logiciel,Élevée
+181,2023-12-30,Production,Capteur de pression donne des pics aléatoires,Matériel,Élevée
+182,2023-12-30,Qualité,Problème d'interprétation des normes ISO,Logiciel,Moyenne
+183,2023-12-31,IT Support,Problème de bande passante avec le cloud,Réseau,Élevée
+184,2023-12-31,Marketing,Problème d'affichage des bannières publicitaires,Logiciel,Moyenne
+185,2024-01-01,RH,Problème de calcul des anciennetés,Logiciel,Basse
+186,2024-01-01,Comptabilité,Problème de consolidation des comptes,Logiciel,Élevée
+187,2024-01-02,Ventes,Problème de microphone sur casque sans fil,Matériel,Moyenne
+188,2024-01-02,Service Client,Demande de création de template de réponse,Compte/Mot de passe,Basse
+189,2024-01-03,Logistique,Problème de géolocalisation des véhicules,Logiciel,Moyenne
+190,2024-01-03,R&D,Problème de version des librairies ML,Logiciel,Élevée
+191,2024-01-04,Production,Capteur de niveau de carburant défaillant,Matériel,Élevée
+192,2024-01-04,Qualité,Problème de génération des cartes de contrôle,Logiciel,Moyenne
+193,2024-01-05,IT Support,Problème de routage vers les serveurs distants,Réseau,Élevée
+194,2024-01-05,Marketing,Problème de tracking des conversions,Logiciel,Moyenne
+195,2024-01-06,RH,Problème d'export des données vers le SIRH,Logiciel,Moyenne
+196,2024-01-06,Comptabilité,Problème de calcul des amortissements,Logiciel,Élevée
+197,2024-01-07,Ventes,Problème de tactile sur l'écran interactif,Matériel,Moyenne
+198,2024-01-07,Service Client,Demande de configuration des signatures groupées,Compte/Mot de passe,Basse
+199,2024-01-08,Logistique,Problème de synchronisation des inventaires,Logiciel,Moyenne
+200,2024-01-08,R&D,Problème de parallélisation des calculs,Logiciel,Élevée
